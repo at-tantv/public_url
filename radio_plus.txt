@@ -5,6 +5,6 @@
     "version_code" : 1,
     "file_database_name": "radio_plus.sql",
     "file_app_name": "radio_plus.sql",
-    "url_database" : "",
+    "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.sql",
     "url_app" : ""
 }
