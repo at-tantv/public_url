@@ -6,5 +6,5 @@
     "file_database_name": "radio_plus.db",
     "file_app_name": "radio_plus.db",
     "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.db",
-    "url_app" : ""
+    "url_app" : "a"
 }
