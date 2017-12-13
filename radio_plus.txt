@@ -3,8 +3,8 @@
     "version_name" : "1.0",
     "version_database" : 1, 
     "version_code" : 1,
-    "file_database_name": "radio_plus.db",
-    "file_app_name": "radio_plus.db",
-    "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.db",
+    "file_database_name": "radio_plus.realm",
+    "file_app_name": "radio_plus.realm",
+    "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.realm",
     "url_app" : ""
 }
