@@ -1,0 +1,12 @@
+{
+    "status" : true,
+    "version_name" : "1.0",
+    "version_database" : 1, 
+    "version_code_one" : 1,
+    "version_code_two" : 1,
+    "version_code_three" : 1,
+    "file_database_name": "atm_viettel.realm",
+    "file_app_name": "atm_viettel.realm",
+    "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.realm",
+    "url_app" : ""
+}
