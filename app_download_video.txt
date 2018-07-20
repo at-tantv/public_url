@@ -4,7 +4,7 @@
     "version_database" : 1, 
     "version_code_one" : 1,
     "version_code_two" : 2,
-    "version_code_three" : 1,
+    "version_code_three" : 3,
     "file_database_name": "atm_at.realm",
     "file_app_name": "atm_at.realm",
     "url_database" : "https://github.com/at-tantv/public_url/raw/master/radio_plus.realm",
