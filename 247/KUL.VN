@@ -64,14 +64,6 @@
          "Amount":"2000000",
          "ImageUrl":null,
          "Status":"1"
-      },
-      {
-         "Id":"29",
-         "ProviderId":"3",
-         "CardName":"5000.000\u0111",
-         "Amount":"5000000",
-         "ImageUrl":null,
-         "Status":"1"
       }
    ]
 }

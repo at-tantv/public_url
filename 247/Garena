@@ -2,14 +2,6 @@
     "Success":true,
     "data":[
        {
-          "Id":"19",
-          "ProviderId":"3",
-          "CardName":"10.000\u0111",
-          "Amount":"10000",
-          "ImageUrl":null,
-          "Status":"1"
-       },
-       {
           "Id":"20",
           "ProviderId":"3",
           "CardName":"20.000\u0111",
