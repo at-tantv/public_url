@@ -4,7 +4,7 @@
        {
           "Id":"25",
           "ProviderId":"3",
-          "CardName":"Kis 1 PC 300.000\u0111 / 1 năm",
+          "CardName":"300.000\u0111",
           "Amount":"300000",
           "ImageUrl":null,
           "Status":"1"
@@ -12,7 +12,7 @@
        {
           "Id":"26",
           "ProviderId":"3",
-          "CardName":"Kis 1 PC 650.000\u0111 / 3 năm",
+          "CardName":"650.000\u0111",
           "Amount":"650000",
           "ImageUrl":null,
           "Status":"1"
